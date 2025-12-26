@@ -1,0 +1,1 @@
+export default function Produto(){return <h2>Produtos</h2>;}

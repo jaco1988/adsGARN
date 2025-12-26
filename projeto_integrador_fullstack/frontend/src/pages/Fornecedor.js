@@ -1,0 +1,1 @@
+export default function Fornecedor(){return <h2>Fornecedores</h2>;}

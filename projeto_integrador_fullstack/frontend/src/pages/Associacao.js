@@ -1,0 +1,1 @@
+export default function Associacao(){return <h2>Associacao</h2>;}
